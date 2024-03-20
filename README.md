@@ -1,1 +1,1 @@
-# Coexistence-of-many-species-on-random-ecosystems
+# Coexistence of many species on random ecosystems
